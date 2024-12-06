@@ -1,0 +1,9 @@
+name: PDGHBussola
+main: me.mchiappinam.pdghbussola.Main
+version: 1.0
+author: mchiappinam
+website: http://pdgh.com.br/
+commands:
+   bussola:
+      description: Info.
+      usage: /<command>
